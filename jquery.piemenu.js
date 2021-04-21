@@ -3,8 +3,8 @@ A Javascript based Pie Menu implementation by Can Duruk.
 
 Backed by JQuery for cross-browser compatability and general ease of use.
 
-Allows easy creation of pie menus in HTML. All the user have to do is assign
-classes to itemo elements; the list from which the menu will be generated and 
+Allows easy creation of pie menus in HTML. All the user has to do is assign
+classes to item elements; the list from which the menu will be generated and 
 the link that will toggle the menu itself.
 
 Also allows creating pie menus out of pie menus.
